@@ -4,7 +4,7 @@ title: HTML
 navigation: 2
 ---
 
-# Navigation
+# HTML
 
 The navigation supports especially only one level. If you need deep nested structures you propably should use a larger documentation system like [GitBook](https://www.gitbook.com/).
 

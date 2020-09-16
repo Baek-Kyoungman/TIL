@@ -4,7 +4,7 @@ title: UX
 navigation: 11
 ---
 
-# Github Pages
+# UX
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

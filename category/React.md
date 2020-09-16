@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Reackt
+title: React
 navigation: 8
 ---
 
-# Github Pages
+# React
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

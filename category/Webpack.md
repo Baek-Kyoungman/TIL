@@ -4,7 +4,7 @@ title: Webpack
 navigation: 10
 ---
 
-# Github Pages
+# Webpack
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

@@ -4,7 +4,7 @@ title: Git/GitHub
 navigation: 5
 ---
 
-# Github Pages
+# Git/GitHub
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

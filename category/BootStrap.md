@@ -4,7 +4,7 @@ title: BootStrap
 navigation: 7
 ---
 
-# Github Pages
+# BootStrap
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

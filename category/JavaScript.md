@@ -4,7 +4,7 @@ title: JavaScript
 navigation: 4
 ---
 
-# Github Pages
+# JavaScript
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

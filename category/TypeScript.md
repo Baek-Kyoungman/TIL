@@ -4,7 +4,7 @@ title: TypeScript
 navigation: 9
 ---
 
-# Github Pages
+# TypeScript
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 
