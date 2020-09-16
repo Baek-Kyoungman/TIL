@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Git/GitHub
-navigation: 6
+title: MarkDown
+navigation: 10
 ---
 
-# Git/GitHub
+# TypeScript
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 

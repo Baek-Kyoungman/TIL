@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SASS
-navigation: 6
+navigation: 4
 ---
 
 # SASS

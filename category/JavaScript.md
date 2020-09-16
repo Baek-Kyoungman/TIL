@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JavaScript
-navigation: 4
+navigation: 7
 ---
 
 # JavaScript
