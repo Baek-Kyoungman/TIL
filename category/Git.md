@@ -4,7 +4,9 @@ title: Git/GitHub
 navigation: 6
 ---
 
-# Git/GitHub
+# Git/GitHub를 학습 및 복습하기 위해 작성했습니다.
+
+###### Git/GitHub를 학습 및 복습하기 위해 작성했습니다.
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 
