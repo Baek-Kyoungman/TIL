@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 02. Truthy and Falsy
 
 이것은 자바스크립트 문법까지는 아니지만, 알아둬야 하는 개념입니다.

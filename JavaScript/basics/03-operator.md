@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 03. 연산자
 
 연산자에 대해서 알아봅시다.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 # 자바스크립트 입문
 
 자바스크립트를 기초부터 배워봅시다!

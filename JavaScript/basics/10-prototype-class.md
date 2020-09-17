@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 10. 프로토타입과 클래스
 
 ### 객체 생성자

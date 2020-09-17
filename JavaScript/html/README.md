@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 # 4장. HTML 과 JavaScript 연동하기
 
 HTML 을 사용하면 브라우저에서 우리가 보여주고 싶은 UI (유저 인터페이스) 를 보여줄 수 있습니다. 만약에 사용자의 인터랙션 (상호작용) 에 따라 동적으로 UI 를 업데이트하고 싶다면, JavaScript 를 연동해주어야 합니다.

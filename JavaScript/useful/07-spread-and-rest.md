@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 07. spread 와 rest
 
 이번에는 ES6 에서 도입된 spread 와 rest 문법에 대해서 알아보겠습니다. 서로 완전히 다른 문법인데요, 은근히 좀 비슷합니다.

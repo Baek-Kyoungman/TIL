@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 참고 문헌
 
 - https://codeburst.io/cool-javascript-shortcuts-and-tips-for-everyday-use-66cd174ab216

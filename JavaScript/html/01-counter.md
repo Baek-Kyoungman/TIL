@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 01. 카운터
 
 

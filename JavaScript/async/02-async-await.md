@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 02. async/await
 
 async/await 문법은 ES8에 해당하는 문법으로서, Promise 를 더욱 쉽게 사용 할 수 있게 해줍니다.

@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 03. 단축 평가 (short-circuit evaluation) 논리 계산법
 
 이번에는 논리 연산자를 조금 더 유용하게 사용하는 방법에 대해서 배워보겠습니다.

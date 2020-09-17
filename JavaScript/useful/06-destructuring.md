@@ -1,3 +1,8 @@
+---
+layout: page
+title: JavaScript
+---
+
 ## 06. 비구조화 할당 (구조분해) 문법
 
 이번에는 1장 섹션 6 에서도 배웠던 [비구조화 할당](https://learnjs.vlpt.us/basics/06-object.html#%EA%B0%9D%EC%B2%B4-%EB%B9%84%EA%B5%AC%EC%A1%B0%ED%99%94-%ED%95%A0%EB%8B%B9) 문법을 잘 활용하는 방법에 대해서 알아보겠습니다.
