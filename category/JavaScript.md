@@ -6,7 +6,7 @@ navigation: 7
 
 # JavaScript
 
-- 출처 : 패스트캠퍼스 강의 자료
+- [출처 : 패스트캠퍼스 강의 자료](https://learnjs.vlpt.us/?q=)
 - 패스트캠퍼스 강의를 통해 자바스크립트를 복습하기 위해 기존에 벨로퍼트님이 만드신 강의자료를 업로드하여 복습하려고 합니다.
 - [벨로퍼트와 함께하는 모던 자바스크립트](https://baek-kyoungman.github.io/study/JavaScript/READ.html)
 - [1장. 자바스크립트 입문](https://baek-kyoungman.github.io/study/JavaScript/basics/README.html)
