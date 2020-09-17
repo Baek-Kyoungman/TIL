@@ -6,7 +6,7 @@ navigation: 2
 
 # HTML
 
-## 패스트캠퍼스 강의를 통해 HTML을 복습하기 위해 작성했습니다.
+#### 패스트캠퍼스 강의를 통해 HTML을 복습하기 위해 작성했습니다.
 - 1장. HTML 첫 걸음
   - [01. 기본 문법](https://baek-kyoungman.github.io/study/HTML/01/01.html)
   - [02. 속성(Attributes)과 값(Value)](https://baek-kyoungman.github.io/study/HTML/01/02.html)
