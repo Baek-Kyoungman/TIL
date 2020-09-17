@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 06. 비구조화 할당 (구조분해) 문법
 ---
 
 ## 06. 비구조화 할당 (구조분해) 문법

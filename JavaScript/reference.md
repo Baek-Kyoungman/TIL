@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 참고 문헌
 ---
 
 ## 참고 문헌

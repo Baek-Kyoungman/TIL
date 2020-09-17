@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 08. 반복문
 ---
 
 ## 08. 반복문

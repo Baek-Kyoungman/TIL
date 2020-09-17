@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 04. 조건문
 ---
 
 ## 04. 조건문

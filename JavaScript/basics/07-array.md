@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 07. 배열
 ---
 
 ## 07. 배열

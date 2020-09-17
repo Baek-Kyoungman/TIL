@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 03. 연산자
 ---
 
 ## 03. 연산자

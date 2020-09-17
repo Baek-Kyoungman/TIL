@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 02. Truthy and Falsy
 ---
 
 ## 02. Truthy and Falsy

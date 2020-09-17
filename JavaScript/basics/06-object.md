@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 06. 객체
 ---
 
 ## 06. 객체

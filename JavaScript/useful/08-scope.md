@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 08. 자바스크립트의 Scope 에 대한 이해
 ---
 
 ## 08. 자바스크립트의 Scope 에 대한 이해

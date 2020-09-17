@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 05. 조건문 더 스마트하게 쓰기
 ---
 
 ## 05. 조건문 더 스마트하게 쓰기

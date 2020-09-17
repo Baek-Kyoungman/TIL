@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 02. 변수와 상수
 ---
 
 ## 02. 변수와 상수

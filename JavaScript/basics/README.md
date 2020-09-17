@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 자바스크립트 입문
 ---
 
 # 자바스크립트 입문

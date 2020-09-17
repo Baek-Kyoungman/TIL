@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 02. 모달 만들기
 ---
 
 ## 02. 모달 만들기

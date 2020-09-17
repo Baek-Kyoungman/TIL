@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 01. 카운터
 ---
 
 ## 01. 카운터

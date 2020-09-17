@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 알고있으면 유용한 자바스크립트 문법
 ---
 
 # 알고있으면 유용한 자바스크립트 문법

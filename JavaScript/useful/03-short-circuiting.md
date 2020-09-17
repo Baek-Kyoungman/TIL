@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 03. 단축 평가 (short-circuit evaluation) 논리 계산법
 ---
 
 ## 03. 단축 평가 (short-circuit evaluation) 논리 계산법

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 4장. HTML 과 JavaScript 연동하기
 ---
 
 # 4장. HTML 과 JavaScript 연동하기

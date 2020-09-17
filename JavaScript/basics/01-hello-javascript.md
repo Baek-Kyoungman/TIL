@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 01. Hello JavaScript!
 ---
 
 ## 01. Hello JavaScript!

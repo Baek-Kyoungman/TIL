@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 05. 함수
 ---
 
 ## 05. 함수

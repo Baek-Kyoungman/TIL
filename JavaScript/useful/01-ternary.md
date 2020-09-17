@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 01. 삼항 연산자
 ---
 
 ## 01. 삼항 연산자

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 04. 함수의 기본 파라미터
 ---
 
 ## 04. 함수의 기본 파라미터

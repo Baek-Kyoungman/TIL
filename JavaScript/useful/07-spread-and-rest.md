@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 07. spread 와 rest
 ---
 
 ## 07. spread 와 rest

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 맺으면서
 ---
 
 # 맺으면서

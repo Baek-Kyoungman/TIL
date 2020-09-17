@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: async/await
 ---
 
 ## 02. async/await

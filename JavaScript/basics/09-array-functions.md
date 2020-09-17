@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 09. 배열 내장함수
 ---
 
 ## 09. 배열 내장함수

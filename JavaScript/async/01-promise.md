@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: Promise
 ---
 
 ## 01. Promise

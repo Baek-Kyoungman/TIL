@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 10. 프로토타입과 클래스
 ---
 
 ## 10. 프로토타입과 클래스
