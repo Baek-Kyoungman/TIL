@@ -8,6 +8,10 @@
 					{{ entry.title }}
 				</a>
 			</li>
+			<li>
+				<a><a class="{% if page.url == entry.url entry.url %}active{% endif %}" href="./JavaScript/basics/README.md"></a>
+					{{ entry.title }}
+			</li>
 		{% endif %}
 	{% endfor %}
 </ul>
