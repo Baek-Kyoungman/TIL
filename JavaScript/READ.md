@@ -1,6 +1,7 @@
 ---
 layout: page
 title: JavaScript
+navigation: 1
 ---
 
 # 벨로퍼트와 함께하는 모던 자바스크립트
