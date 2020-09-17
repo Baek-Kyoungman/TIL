@@ -6,7 +6,7 @@ navigation: 7
 
 # JavaScript
 
-- [벨로퍼트와 함께하는 모던 자바스크립트](./JavaScript/READ.md)
+- [벨로퍼트와 함께하는 모던 자바스크립트](./JavaScript/README.md)
 - [1장. 자바스크립트 입문](./JavaScript/basics/README.md)
   - [01. Hello JavaScript](./JavaScript/basics/01-hello-javascript.md)
   - [02. 변수](./JavaScript/basics/02-variables.md)
