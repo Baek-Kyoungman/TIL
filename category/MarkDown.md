@@ -3,7 +3,7 @@ layout: page
 title: MarkDown
 navigation: 10
 ---
-# MarkDown 사용법 총저리
+# MarkDown 사용법 총정리
 
 **마크다운(MarkDown)**에 대해서 알고 계신가요?
 파일 확장자가 `.md`로 된 파일을 보셨나요?
