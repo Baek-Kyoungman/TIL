@@ -9,8 +9,9 @@
 				</a>
 			</li>
 			<li>
-				<a><a href="./JavaScript/basics/README.md"></a>
+				<a class="{% if page.url == entry.url entry.url %}active{% endif %}" href="./JavaScript/basics/README.md">
 					{{ entry.title }}
+				</a>
 			</li>
 		{% endif %}
 	{% endfor %}
