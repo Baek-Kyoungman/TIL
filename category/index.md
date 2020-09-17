@@ -6,45 +6,19 @@ navigation: 1
 
 # HOME
 
-Simple documentation theme for Jekyll featuring [Milligram CSS framework](http://milligram.io/), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
+#### **Study**를 만든 이유는 하루하루 배운것을 기록하기 위해 만들게 됬습니다. 
 
-One of the core features is a full text client side search and full responsiveness. It has zero dependencies with other gems and should be easily build with Github.
+카테고리
 
-## Installation
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "millidocs"
-```
-
-Adapt your Jekyll site config `_config.yml`:
-
-```yaml
-  title: My Docs Page Title
-  description: MY description
-  url: "https://base/url/site"
-  theme: millidocs
-
-  markdown: kramdown
-  kramdown:
-    syntax_highlighter_opts:
-      disable : true
-
-  exclude:
-    - Gemfile
-    - Gemfile.lock
-    - README.md
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install millidocs
-
-## Available Layouts
-
-This theme is made for _pages_ only and doesn't support _posts_ by default. So the only available layouts are `default` and `page`.
+1. HTML
+1. CSS
+1. SASS
+1. BootStrap
+1. Git/GitHub
+1. 모던 JavaScript
+1. JavaScript
+1. React
+1. TypeScript
+1. MarkDown
+1. WebPack
+1. UI

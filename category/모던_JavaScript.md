@@ -1,6 +1,6 @@
 ---
 layout: page
-title: JavaScript
+title: 모던 JavaScript
 navigation: 8
 ---
 

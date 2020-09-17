@@ -6,13 +6,14 @@
 ## 카테고리
 
 1. HTML
-2. CSS
-3. SASS
-4. BootStrap
-5. Git/GitHub
-6. JavaScript
-7. React
-8. TypeScript
-9. 마크다운
-10. Webpack
-11. UX
+1. CSS
+1. SASS
+1. BootStrap
+1. Git/GitHub
+1. 모던 JavaScript
+1. JavaScript
+1. React
+1. TypeScript
+1. MarkDown
+1. WebPack
+1. UI
