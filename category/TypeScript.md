@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TypeScript
-navigation: 9
+navigation: 10
 ---
 
 # TypeScript

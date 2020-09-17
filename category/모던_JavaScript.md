@@ -1,7 +1,7 @@
 ---
 layout: page
 title: JavaScript
-navigation: 7
+navigation: 8
 ---
 
 # 모던 JavaScript

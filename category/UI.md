@@ -1,10 +1,10 @@
 ---
 layout: page
-title: UX
-navigation: 12
+title: UI
+navigation: 13
 ---
 
-# UX
+# UI
 
 You can use the millidocs theme with github pages by adding it as a `remote_theme`.
 
