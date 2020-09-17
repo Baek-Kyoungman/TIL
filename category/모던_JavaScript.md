@@ -36,4 +36,8 @@ navigation: 8
   - [02. 모달](https://baek-kyoungman.github.io/study/File/JavaScript/html/02-modal.html)
 - [맺으면서](https://baek-kyoungman.github.io/study/File/JavaScript/CONCLUSION.html)
 - [참고 문헌](https://baek-kyoungman.github.io/study/File/JavaScript/reference.html)
-- [출처 : 패스트캠퍼스 강의 자료](https://learnjs.vlpt.us/?q=)
+
+> 출처 : https://learnjs.vlpt.us/basics/
+> 출처 : https://learnjs.vlpt.us/useful/
+> 출처 : https://learnjs.vlpt.us/async/
+> 출처 : https://learnjs.vlpt.us/html/
