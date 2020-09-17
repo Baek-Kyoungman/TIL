@@ -3,7 +3,7 @@ layout: page
 title: JavaScript
 ---
 
-# 벨로퍼트와 함께하는 모던 자바스크립트
+# 벨로퍼트와 함께하는 모던 자바스크립트 
 
 > 본 강의 자료는 [패스트캠퍼스 온라인 강의](https://www.fastcampus.co.kr/dev_online_react/)에서 제공하는 JavaScript 강의에서 사용되는 강의 문서입니다.
 
