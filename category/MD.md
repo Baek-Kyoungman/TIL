@@ -1,8 +1,9 @@
 ---
 layout: page
 title: MarkDown
-navigation: 10
+navigation: 13
 ---
+
 # MarkDown 사용법 총저리
 
 **마크다운(MarkDown)**에 대해서 알고 계신가요?
