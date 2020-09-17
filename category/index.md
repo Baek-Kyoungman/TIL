@@ -4,7 +4,7 @@ title: Home
 navigation: 1
 ---
 
-#HOME
+# HOME
 
 Simple documentation theme for Jekyll featuring [Milligram CSS framework](http://milligram.io/), [PrismJS syntax highlighter](http://prismjs.com/) and [LunrJS search](https://lunrjs.com/).
 
