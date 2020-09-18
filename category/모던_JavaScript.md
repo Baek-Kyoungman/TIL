@@ -38,6 +38,9 @@ navigation: 8
 - [참고 문헌](https://baek-kyoungman.github.io/study/File/JavaScript/reference.html)
 
 > 출처 : https://learnjs.vlpt.us/basics/
+
 > 출처 : https://learnjs.vlpt.us/useful/
+
 > 출처 : https://learnjs.vlpt.us/async/
+
 > 출처 : https://learnjs.vlpt.us/html/
