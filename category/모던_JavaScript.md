@@ -19,6 +19,7 @@ navigation: 8
   - [08. 반복문](https://baek-kyoungman.github.io/study/File/JavaScript/basics/08-loop.html)
   - [09. 배열 내장함수](https://baek-kyoungman.github.io/study/File/JavaScript/basics/09-array-functions.html)
   - [10. 프로토타입과 클래스](https://baek-kyoungman.github.io/study/File/JavaScript/basics/10-prototype-class.html)
+  - [11. 자바스크립트 입문 정리](https://baek-kyoungman.github.io/study/File/JavaScript/basics/11.html)
 - [2장. 알고있으면 유용한 자바스크립트 문법](https://baek-kyoungman.github.io/study/File/JavaScript/useful/README.html)
   - [01. 삼항 연산자](https://baek-kyoungman.github.io/study/File/JavaScript/useful/01-ternary.html)
   - [02. Truthy and Falsy](https://baek-kyoungman.github.io/study/File/JavaScript/useful/02-truthy-and-falsy.html)
