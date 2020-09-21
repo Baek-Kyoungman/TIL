@@ -147,22 +147,12 @@ navigation: 9
 
 > 출처 : https://react.vlpt.us/basic/
 
-> 출처 : https://react.vlpt.us/styling/
-
-> 출처 : https://react.vlpt.us/mashup-todolist/
-
-> 출처 : https://react.vlpt.us/integrate-api/
-
-> 출처 : https://react.vlpt.us/react-router/
-
-> 출처 : https://react.vlpt.us/redux/
-
-> 출처 : https://react.vlpt.us/redux-middleware/
-
-> 출처 : https://react.vlpt.us/using-typescript/
 
 
+### 공부하며 작성하는 React
 
+1. React
+  - [윈도우에 React 개발 환경 만들기](https://baek-kyoungman.github.io/study/File/React/me/01.html)
 
 
 
