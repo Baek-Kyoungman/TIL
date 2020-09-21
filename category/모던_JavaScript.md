@@ -40,8 +40,7 @@ navigation: 8
 
 > 출처 : https://learnjs.vlpt.us/basics/
 
-> 출처 : https://learnjs.vlpt.us/useful/
 
-> 출처 : https://learnjs.vlpt.us/async/
-
-> 출처 : https://learnjs.vlpt.us/html/
+#### JavaScript.info
+- **자바스크립트 기본**
+  - [자바스크립트 기본 문법 요약](https://baek-kyoungman.github.io/study/File/JavaScript/info/01.html)
